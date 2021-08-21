@@ -1,0 +1,12 @@
+{
+  "name": "quest-board",
+  "version": "1.0.0",
+  "description": "a simple bot that communicates with a databast to construct random strings, and tweets them out into the void",
+  "main": "bot.js",
+  "repository": "git@github.com:medricr/quest-board.git",
+  "author": "medricr <medricr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
