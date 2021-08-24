@@ -32,7 +32,7 @@ CREATE TABLE future_adHooks (
 
 INSERT INTO past_adHooks (info_source, antagonist, threat)
 VALUES 
-("Ancient scrolls have been unearthed, telling of ", "an elder god ", "who will end life as we know it."),
+("Ancient scrolls have been unearthed, telling of ", "an elder god ", "that will end life as we know it."),
 ("Long ago, it was said that ", "the spirit of a wrongly killed priest ", " will return to stalk the land."),
 ("It has long been foretold by the stars that ", "an ancient race of slavers ", "will descend upon this world to rule us all.");
 
