@@ -7,6 +7,7 @@
   "author": "medricr <medricr@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chai": "^4.3.4"
+    "chai": "^4.3.4",
+    "twitter": "^1.7.1"
   }
 }
